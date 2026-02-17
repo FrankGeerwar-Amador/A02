@@ -55,20 +55,34 @@ To edit the file, click on the file you want to edit. On the right, you will see
 Click on the pencil to edit the file. Then, you can make edits and commit the latest changes. 
 
 Glossary:
+
 **Branch** - different areas that allow you to work on different parts on a project.
+
 **Clone** - a copy of a repository saved on your PC.
+
 **Commit** - records changes in files.
+
 **Fetch** - used to download references and other objects from other repositories.
+
 **GIT** - a version control system that developers used to track changes of code.
+
 **Github** - a version control system that is used for collaboration between developers.
+
 **Merge** - combines two brances to form one.
+
 **Merge Conflict** - when Git doesn't combine changes coming from different branches. 
+
 **Push** - used to update commited changes from local machine to Github.
+
 **Pull** - used to grab code from the repository and make changes.
+
 **Remote** - link repositories that can push and pull updates 
+
 **Repository** - a storage area where you keep files for developing projects.
 
+
 Soruces:
+
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
 
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
